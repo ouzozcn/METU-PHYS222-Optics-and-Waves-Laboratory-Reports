@@ -1,5 +1,5 @@
 
-# 📘 PHYS222 - Optics and Waves Laboratory Reports
+# ✳️ PHYS222 - Optics and Waves Laboratory Reports
 
 Welcome to my collection of lab reports for **PHYS222: Optics and Waves Laboratory** 🌊! These reports were written in LaTeX (TeX format) and are here to serve as examples for students at **Middle East Technical University’s Department of Physics**. Whether you're looking to refine your report-writing skills, learn about specific experiments, or just get inspired for your own reports, this repository is for you! 🎉
 
