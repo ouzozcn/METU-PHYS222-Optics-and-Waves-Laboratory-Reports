@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1}Theory}{4}{}%
+\contentsline {chapter}{\numberline {2}Data and Results}{8}{}%
+\contentsline {section}{\numberline {2.1}Thin Lens Formula Method}{8}{}%
+\contentsline {section}{\numberline {2.2}Bessel Method}{9}{}%
+\contentsline {section}{\numberline {2.3}Virtual Object Method}{10}{}%
+\contentsline {chapter}{\numberline {3}Discussion and Conclusion}{11}{}%
+\contentsline {chapter}{\numberline {4}Application}{13}{}%
+\contentsline {chapter}{\numberline {5}References}{14}{}%

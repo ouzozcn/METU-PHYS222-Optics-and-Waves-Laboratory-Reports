@@ -1,0 +1,516 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.26)  26 OCT 2024 15:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(document.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks18
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box52
+) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen149
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+ [1
+
+{C:/Users/ouzoz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(document.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \contentsline
+                  {chapter}{\numberline {5}References}{14}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\tf@toc=\write3
+\openout3 = `document.toc'.
+
+ [1
+
+] (document.lof
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.5 \addvspace {10\p@ }
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.5 \addvspace {10\p@ }
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.9 \addvspace {10\p@ }
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.9 \addvspace {10\p@ }
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+)
+\tf@lof=\write4
+\openout4 = `document.lof'.
+
+ [2
+
+] (document.lot
+Overfull \hbox (22.1127pt too wide) in paragraph at lines 4--6
+[]\OT1/cmr/m/n/12 table[]Sample data for Bessel Method9 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.6 \addvspace {10\p@ }
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.6 \addvspace {10\p@ }
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\tf@lot=\write5
+\openout5 = `document.lot'.
+
+ [3
+
+]
+Chapter 1.
+<Type of Lenses.png, id=17, 2007.5pt x 937.5025pt>
+File: Type of Lenses.png Graphic file (type png)
+<use Type of Lenses.png>
+Package pdftex.def Info: Type of Lenses.png  used on input line 22.
+(pdftex.def)             Requested size: 319.7975pt x 118.38914pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--32
+
+ []
+
+[4
+
+ <./Type of Lenses.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 33.
+<Convex Lens Formula.png, id=24, 617.30624pt x 361.35pt>
+File: Convex Lens Formula.png Graphic file (type png)
+<use Convex Lens Formula.png>
+Package pdftex.def Info: Convex Lens Formula.png  used on input line 49.
+(pdftex.def)             Requested size: 155.9934pt x 71.03363pt.
+ [5 <./Convex Lens Formula.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+
+ []
+
+<Bessel.png, id=33, 366.61969pt x 352.31625pt>
+File: Bessel.png Graphic file (type png)
+<use Bessel.png>
+Package pdftex.def Info: Bessel.png  used on input line 86.
+(pdftex.def)             Requested size: 195.00117pt x 136.15556pt.
+[6 <./Bessel.png>]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 95.
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 9
+5.
+(C:\Users\ouzoz\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <17.28> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 95.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 95.
+
+[7]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
+
+ []
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 219.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 219.
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 219.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+[10]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--261
+
+ []
+
+[11
+
+] [12]
+Chapter 4.
+<microscope.png, id=65, 295.1025pt x 256.70906pt>
+File: microscope.png Graphic file (type png)
+<use microscope.png>
+Package pdftex.def Info: microscope.png  used on input line 277.
+(pdftex.def)             Requested size: 155.9983pt x 118.39703pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--282
+
+ []
+
+[13
+
+ <./microscope.png>]
+Chapter 5.
+
+Overfull \hbox (2.5726pt too wide) in paragraph at lines 294--299
+$\OT1/cmr/m/n/12 [1]$ Loshin, David S. \OT1/cmr/m/it/12 The Ge-o-met-ri-cal Op-
+tics Work-book. \OT1/cmr/m/n/12 Boston: Butterworth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--299
+
+ []
+
+
+Overfull \hbox (7.72906pt too wide) in paragraph at lines 294--299
+\OT1/cmr/m/n/12 [4]$ "Laws of Lenses." Ac-cessed March 3, 2015. $\OML/cmm/m/it/
+12 http \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 ==site:iugaza:edu:ps=hele[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--299
+
+ []
+
+[14
+
+] (document.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2322 strings out of 474486
+ 40041 string characters out of 5743754
+ 1936542 words of memory out of 5000000
+ 24595 multiletter control sequences out of 15000+600000
+ 564199 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,10n,69p,853b,243s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ouzoz/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ouzoz/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ouzoz/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ouzoz/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Users/ouzoz/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ouzoz/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (15 pages, 382337 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
